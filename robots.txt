@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lukas6525.github.io/lukasent-web/sitemap.xml
